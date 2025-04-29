@@ -1,4 +1,6 @@
 .ohh{
-    background-image: url();
+    height: 900px;
+    width: 1400px;
+    background-image: url(try.jpg);
     background-size: cover;
 }
